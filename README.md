@@ -5,3 +5,8 @@ This project is a web-based application that allows users to book slots for COVI
 • Java
 • Swing Application
 • NetBeans
+
+# Getting Started
+1. Clone the repository to your local machine.
+2. Open the project in NetBeans.
+3. Build and run the project.
